@@ -1,0 +1,12 @@
+# Quelldaten (gross, nicht im Repo noetig)
+*.csv
+
+# Jekyll build output (falls lokal gebaut)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Windows
+Thumbs.db
+desktop.ini
