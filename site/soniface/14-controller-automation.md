@@ -11,65 +11,65 @@ nav_order: 14
 
 Multitouch means the use of multiple fingers on the screen. The fingers are placed around the Maze point.
 
- Depending on the number of fingers and the activated instruments, each gesture controls a number of effects.
+Depending on the number of fingers and the activated instruments, each gesture controls a number of effects.
 
 ### Two Fingers: Rotation & Distance
 
 Gridsynth: Volume (Wave) & Radius
 
- Sampler: Volume & Distortion (Feedback)
+Sampler: Volume & Distortion (Feedback)
 
- Rhythm: Volume & Distortion (Feedback)
+Rhythm: Volume & Distortion (Feedback)
 
- If 2 or 3 instruments are used, the gesture affects all of them.
+If 2 or 3 instruments are used, the gesture affects all of them.
 
- Disable/Delete the Chord in the Maze if the Gridsynth should not be affected.
+Disable/Delete the Chord in the Maze if the Gridsynth should not be affected.
 
 ### Three Fingers: Rotation & Distance
 
 Gridsynth: Vibrato & Low Cut
 
- Sampler: Low Pass Resonance & Low Pass Frequency
+Sampler: Low Pass Resonance & Low Pass Frequency
 
- Rhythm: Low Pass Resonance & Low Pass Frequency
+Rhythm: Low Pass Resonance & Low Pass Frequency
 
- If 2 or 3 instruments are used, the gesture affects all instruments in the Maze.
+If 2 or 3 instruments are used, the gesture affects all instruments in the Maze.
 
 ### Four Fingers: Rotation & Distance
 
 Gridsynth: Reverb Size & Reverb Volume (Room)
 
- Sampler: Echo Length & Echo Volume
+Sampler: Echo Length & Echo Volume
 
- Rhythm: Echo Length & Echo Volume
+Rhythm: Echo Length & Echo Volume
 
- If 2 or 3 instruments are used, the gesture affects all instruments of the Maze.
+If 2 or 3 instruments are used, the gesture affects all instruments of the Maze.
 
 ### Five Fingers: Rotation & Distance
 
 Gridsynth: Tremolo Speed & Tremolo Amp
 
- Sampler: LFO Speed & LFO Amp
+Sampler: LFO Speed & LFO Amp
 
- Rhythm: LFO Speed & LFO Amp
+Rhythm: LFO Speed & LFO Amp
 
- If 2 or 3 instruments are used, the gesture affects all instruments of the Maze.
+If 2 or 3 instruments are used, the gesture affects all instruments of the Maze.
 
 ### Controller Automation Mudule
 
 Soniface offers several options for automating a module's controllers: sequence, touch, hand and body movements, MIDI and SideChain.
 
- Dynamic control of controllers is essential for varying the sound.
+Dynamic control of controllers is essential for varying the sound.
 
- Linking is done by selecting the X & Y keys to link the two axes of a controller.
+Linking is done by selecting the X & Y keys to link the two axes of a controller.
 
 ### Sequence Curve
 
 A curve can be drawn free or quantized and takes the X-Controller value as a starting point.
 
- Oscillation then takes place in a loop between the min. and max. controller levels.
+Oscillation then takes place in a loop between the min. and max. controller levels.
 
- The sequence speed is related to the main tempo and can be divided or multiplied.
+The sequence speed is related to the main tempo and can be divided or multiplied.
 
 ### Play/Stop automation
 
@@ -91,7 +91,7 @@ Resets the curve shape to the center.
 
 The speed of the sequence can be divided (left, e.g. 0.5x) or multiplied (right, e.g. 2x).
 
- The length of the sequence is in proportion to the main speed. The normal state is in the middle position (1).
+The length of the sequence is in proportion to the main speed. The normal state is in the middle position (1).
 
 ### Draw modes
 
@@ -109,21 +109,21 @@ Mode to draw the curve quantized.
 
 In sidechain, a sending amplitude affects a receiving amplitude. The sender is always the Rhythm module and in it the Amp menu.
 
- If the sender is raised and the receiver lowered, controller lowered, the typical effect is that the sender amplitude suppresses the receiver.
+If the sender is raised and the receiver lowered, controller lowered, the typical effect is that the sender amplitude suppresses the receiver.
 
- Tip: In the Rhythm Amp module raise the BD slider to send the amplitude, in the Automation menu of a controller select Sidechain and lower the BD slider.
+Tip: In the Rhythm Amp module raise the BD slider to send the amplitude, in the Automation menu of a controller select Sidechain and lower the BD slider.
 
 ### Controller Automation: Radius (X)
 
 Control the radius value of a controller (distance to center) e.g. by multi touch or camera based body tracking.
 
- Tap the X twice to disconnect the controller.
+Tap the X twice to disconnect the controller.
 
 ### Controller Automation: Angle (Y)
 
 Control the angle value of a controller (circle, around the center) e.g. by multi touch or camera based body tracking.
 
- Tap twice on the Y to release the controller connection.
+Tap twice on the Y to release the controller connection.
 
 ### Effect range
 
@@ -145,63 +145,63 @@ Paste the copied automation curve.
 
 If a Bass or Bass Drum (BD) sends an amplitude (Amp), then the signal is received here and the selected Maze controller is lowered or raised.
 
- The input value can be positive or negative, correspondingly vice versa the sidechain control of the receiving controller is adjusted.
+The input value can be positive or negative, correspondingly vice versa the sidechain control of the receiving controller is adjusted.
 
 ### Sidechain SD
 
 If a Bass Synth or Snare Drum (SD) sends an amplitude (Amp), then the signal is received here and the selected Maze controller is lowered or raised.
 
- The input value can be positive or negative, correspondingly vice versa the sidechain control of the receiving controller is adjusted.
+The input value can be positive or negative, correspondingly vice versa the sidechain control of the receiving controller is adjusted.
 
 ### Sidechain HT
 
 If a Bass Synth or Hi-Hat Drum (HT) sends an amplitude (Amp), then the signal is received here and the selected Maze controller is lowered or raised.
 
- The input value can be positive or negative, correspondingly vice versa the sidechain control of the receiving controller is adjusted.
+The input value can be positive or negative, correspondingly vice versa the sidechain control of the receiving controller is adjusted.
 
 ### Movement/Knob Mapping In-Point
 
 This value determines the input value of a mapping of motion control, touch or midi.
 
- The mapping of a controller means the span of its range, where it starts (0) and ends (1). e.g. the distances can be limited in motion tracking.
+The mapping of a controller means the span of its range, where it starts (0) and ends (1). e.g. the distances can be limited in motion tracking.
 
 ### Movement/Knob Mapping Out-Point
 
 This value determines the end value of a mapping of motion control, touch or midi.
 
- The mapping of a controller means the span of its effective range, at which point it starts (0) and ends (1). e.g. the distances can be limited during motion tracking.
+The mapping of a controller means the span of its effective range, at which point it starts (0) and ends (1). e.g. the distances can be limited during motion tracking.
 
 ### Maze Parameter Mapping In-Point
 
 This slider defines the min. value of the Maze Controller, which can be reached by motion tracking, touch or midi.
 
- The effect span of each Maze Controller is defined by a start and end point. The current controller value thus always results from the Maze Parameter Mapping and the Movement/ Knob Mapping.
+The effect span of each Maze Controller is defined by a start and end point. The current controller value thus always results from the Maze Parameter Mapping and the Movement/ Knob Mapping.
 
 ### Maze Parameter Mapping Out-Point
 
 This slider sets the max. value of the Maze Controller, which can be reached by movement control, touch or midi.
 
- The effect span of each Maze Controller is defined by a start and end point. The current controller value thus always results from the Maze parameter mapping and the Movement/ Knob mapping.
+The effect span of each Maze Controller is defined by a start and end point. The current controller value thus always results from the Maze parameter mapping and the Movement/ Knob mapping.
 
 ### Dynamic Mapping Curve
 
 This value determines the dynamics of the effect on the Maze Controller. In the middle, the curve behaves linearly.
 
- Aligned to the left, it becomes flatter (much movement, little deflection), to the right, the curve becomes steeper (little movement, much deflection).
+Aligned to the left, it becomes flatter (much movement, little deflection), to the right, the curve becomes steeper (little movement, much deflection).
 
 ### Dynamic Signal-Damping
 
 Left side: More attack, less release
 
- Right side: Less attack, more release.
+Right side: Less attack, more release.
 
- This parameter helps to smooth the input level and works well in combination with the Delta parameter.
+This parameter helps to smooth the input level and works well in combination with the Delta parameter.
 
 ### MIDI Input Module
 
 External MIDI signals can be received here. Each Maze controller has the MIDI learn function.
 
- Manual assignment is done via the controller and channel fader.
+Manual assignment is done via the controller and channel fader.
 
 ### MIDI In Controller
 
@@ -219,7 +219,7 @@ Tap the MIDI Learn button and then move the MIDI controller to immediately conne
 
 Send MIDI signals from a controller to external devices or applications. Also connections from Motion Tracking to MIDI Out are possible.
 
- Connect a Body/ Hand Tracking input to the respective Maze controller and assign a MIDI Out channel and controller to the same controller.
+Connect a Body/ Hand Tracking input to the respective Maze controller and assign a MIDI Out channel and controller to the same controller.
 
 ### MIDI Out Controller
 
@@ -233,11 +233,11 @@ Manual selection of the MIDI channel to which the Maze controller is to be conne
 
 In this Interface, body movements can be linked to a Maze controller.
 
- For example, moving your hand up and down can control the volume of a synth.
+For example, moving your hand up and down can control the volume of a synth.
 
- Tracking is done via the device's webcam or via Kinect or RealSense.
+Tracking is done via the device's webcam or via Kinect or RealSense.
 
- To do this, activate the camera in the Motions menu or select a recorded movement (Capture).
+To do this, activate the camera in the Motions menu or select a recorded movement (Capture).
 
 > *Also in: [Motion](../15-motion/)*
 
@@ -245,9 +245,9 @@ In this Interface, body movements can be linked to a Maze controller.
 
 Delta describes the change value of a controller.
 
- If Delta is active, an effect becomes active at the moment the change takes place, for example.
+If Delta is active, an effect becomes active at the moment the change takes place, for example.
 
- In combination with the Dynamic Mapping Curve, this change is related to the intensity and speed of a gesture.
+In combination with the Dynamic Mapping Curve, this change is related to the intensity and speed of a gesture.
 
 > *Also in: [Motion](../15-motion/)*
 
@@ -255,9 +255,9 @@ Delta describes the change value of a controller.
 
 Kinect is a body sensing camera developed for the XBox game console from Microsoft V2.
 
- After installing the respective SDKs (Windows), it can be used in Soniface Lab. The Kinect works when the red infrared lights are visible.
+After installing the respective SDKs (Windows), it can be used in Soniface Lab. The Kinect works when the red infrared lights are visible.
 
- When it has detected you, the Grid model of the body appears. Now you can associate X & Y parameters of the controller with a body part or gesture.
+When it has detected you, the Grid model of the body appears. Now you can associate X & Y parameters of the controller with a body part or gesture.
 
 > *Also in: [Motion](../15-motion/)*
 
@@ -589,9 +589,9 @@ The controller is controlled by the movement of the right foot forward and backw
 
 In this Interface, body movements can be linked to a Maze controller.
 
- For example, moving your hand up and down can control the volume of a synth.
+For example, moving your hand up and down can control the volume of a synth.
 
- Tracking is done via the LeapMotion.
+Tracking is done via the LeapMotion.
 
 > *Also in: [Motion](../15-motion/)*
 
@@ -647,9 +647,9 @@ On/off switch: When the hand goes outside the tracking range, the controller val
 
 Delta refers to the change value of a movement.
 
- When Delta is active, an effect, for example, becomes active at the moment the change takes place.
+When Delta is active, an effect, for example, becomes active at the moment the change takes place.
 
- In combination with the Dynamic Mapping Curve, this change is related to the intensity/speed of a movement.
+In combination with the Dynamic Mapping Curve, this change is related to the intensity/speed of a movement.
 
 > *Also in: [Motion](../15-motion/)*
 
@@ -657,7 +657,7 @@ Delta refers to the change value of a movement.
 
 After installing the Leap Motion drivers (Windows 10), the controller works Plug&Play.
 
- Once the USB connection is established, small icons of the hands are visible. Now any Maze controller can be connected with a hand/finger gesture.
+Once the USB connection is established, small icons of the hands are visible. Now any Maze controller can be connected with a hand/finger gesture.
 
 > *Also in: [Motion](../15-motion/)*
 
@@ -949,9 +949,9 @@ The controller is controlled by the flexion of the palm on the entire vertical a
 
 Create your own multitouch controllers and perform them on the Grid.
 
- The Interface allows Maze controllers to be linked to the XY position of the Maze point on the screen.
+The Interface allows Maze controllers to be linked to the XY position of the Maze point on the screen.
 
- In addition, the touch gestures distance and rotation with 2-5 fingers, can be placed around the Maze.
+In addition, the touch gestures distance and rotation with 2-5 fingers, can be placed around the Maze.
 
 > *Also in: [Motion](../15-motion/)*
 
@@ -1175,9 +1175,9 @@ This function creates a controller in the Main FX interface that controls the po
 
 The keyboard plays the selected instrument, Gridsynth, Sampler, or Rhythm Bass, as well as the Key Interface to select the tones used.
 
- If the drop switch is activated on the keyboard, the tones of the keyboard refer to the scale or chords selected in the Key Interface and dynamically changes them in a progression.
+If the drop switch is activated on the keyboard, the tones of the keyboard refer to the scale or chords selected in the Key Interface and dynamically changes them in a progression.
 
- The keyboard can be customized in size and range.
+The keyboard can be customized in size and range.
 
 ### Delete Loop Recording
 
@@ -1227,9 +1227,9 @@ In this mode, the keyboard displays only the chord or scale notes selected in th
 
 Display Maze controller links to all internal and external controllers (MIDI, Touch Connctor, Hand & Body Tracking).
 
- The effect of the controllers can be emulated via the hub, so the input device does not need to be connected/active.
+The effect of the controllers can be emulated via the hub, so the input device does not need to be connected/active.
 
- The links can be opened, edited and removed via the Maze/ Pattern Hub.
+The links can be opened, edited and removed via the Maze/ Pattern Hub.
 
 > *Also in: [Mazes](../09-mazes/) · [Pattern](../06-pattern/)*
 
@@ -1243,7 +1243,7 @@ Shows the controller shortcuts as faders. The effect of the controllers is emula
 
 Shows the connected controllers of a Maze in the current Pattern.
 
- Tap on a Connection in the list to enter the Interface of the respective connection.
+Tap on a Connection in the list to enter the Interface of the respective connection.
 
 > *Also in: [Mazes](../09-mazes/) · [Pattern](../06-pattern/)*
 
@@ -1251,7 +1251,7 @@ Shows the connected controllers of a Maze in the current Pattern.
 
 Displays the connected controllers of all Mazes in the current Pattern.
 
- Tap on a connection in the list to enter the Interface of the respective connection.
+Tap on a connection in the list to enter the Interface of the respective connection.
 
 > *Also in: [Mazes](../09-mazes/) · [Pattern](../06-pattern/)*
 
@@ -1283,19 +1283,19 @@ An overview of all connections of modules to internal and external controllers c
 
 The presets contain both the connection, the characteristic of the input and the channel/value of the respective device.
 
- By loading, the preset overwrites the current settings.
+By loading, the preset overwrites the current settings.
 
 ### Save Connections Preset
 
 Save a custom preset and name it.
 
- The preset will be saved to the local Soniface folder and can be shared this way (FAQ).
+The preset will be saved to the local Soniface folder and can be shared this way (FAQ).
 
 ### Add Connections Preset
 
 Load a preset in with connections to input devices such as MIDI, Touch Connection, Hand and Body Tracking.
 
- The presets include both the connection, the characteristic of the input and the channel/value of the respective device.
+The presets include both the connection, the characteristic of the input and the channel/value of the respective device.
 
- By loading, the preset overwrites the current settings.
+By loading, the preset overwrites the current settings.
 

@@ -11,15 +11,15 @@ nav_order: 6
 
 All Mazes on the screen together form the Pattern. To progressively develop your composition, you can duplicate them.
 
- Their order is variable. Also, for each Pattern, Main Tempo, Pitch & Volume as well as Grid Mode and Visual can be set separately.
+Their order is variable. Also, for each Pattern, Main Tempo, Pitch & Volume as well as Grid Mode and Visual can be set separately.
 
 ### Grid Menu
 
 You can choose from different Grid shapes that are directly connected to the Gridsynth.
 
- You determine the number of available tones of the Gridsynth.
+You determine the number of available tones of the Gridsynth.
 
- The Grid can vary by pattern. Tip: Smaller Grids require less power.
+The Grid can vary by pattern. Tip: Smaller Grids require less power.
 
 > *Also in: [Visual](../07-visual/)*
 
@@ -27,9 +27,9 @@ You can choose from different Grid shapes that are directly connected to the Gri
 
 Display Maze controller links to all internal and external controllers (MIDI, Touch Connctor, Hand & Body Tracking).
 
- The effect of the controllers can be emulated via the hub, so the input device does not need to be connected/active.
+The effect of the controllers can be emulated via the hub, so the input device does not need to be connected/active.
 
- The links can be opened, edited and removed via the Maze/ Pattern Hub.
+The links can be opened, edited and removed via the Maze/ Pattern Hub.
 
 > *Also in: [Controller & Automation](../14-controller-automation/) · [Mazes](../09-mazes/)*
 
@@ -43,7 +43,7 @@ Shows the controller shortcuts as faders. The effect of the controllers is emula
 
 Shows the connected controllers of a Maze in the current Pattern.
 
- Tap on a Connection in the list to enter the Interface of the respective connection.
+Tap on a Connection in the list to enter the Interface of the respective connection.
 
 > *Also in: [Controller & Automation](../14-controller-automation/) · [Mazes](../09-mazes/)*
 
@@ -51,7 +51,7 @@ Shows the connected controllers of a Maze in the current Pattern.
 
 Displays the connected controllers of all Mazes in the current Pattern.
 
- Tap on a connection in the list to enter the Interface of the respective connection.
+Tap on a connection in the list to enter the Interface of the respective connection.
 
 > *Also in: [Controller & Automation](../14-controller-automation/) · [Mazes](../09-mazes/)*
 
@@ -83,9 +83,9 @@ An overview of all connections of modules to internal and external controllers c
 
 All the Mazes on the screen together form the Pattern. They can be cloned and modified, allowing composition to evolve progressively.
 
- The order of Patterns is variable. Each Pattern can vary in tempo, pitch, volume, Grid mode, and visual.
+The order of Patterns is variable. Each Pattern can vary in tempo, pitch, volume, Grid mode, and visual.
 
- Tap, hold, and release the next Pattern icon to create a crossfade.
+Tap, hold, and release the next Pattern icon to create a crossfade.
 
 > *Also in: [Introduction](../01-introduction/)*
 
@@ -97,15 +97,15 @@ Add a new Pattern, duplicate or delete a Pattern, or move their order.
 
 An important element to create compositions or basic structures for songs and visuals.
 
- The change from one Pattern to another can be changed by a crossfade or samples (Sampler Interface).
+The change from one Pattern to another can be changed by a crossfade or samples (Sampler Interface).
 
 ### Pattern back & forth
 
 Toggle between the previous and next Pattern.
 
- If a key is held for a certain time, the crossfade will occur for the same time after it is released.
+If a key is held for a certain time, the crossfade will occur for the same time after it is released.
 
- Tip: When using an external keyboard, switching can be done with the left and right arrow keys.
+Tip: When using an external keyboard, switching can be done with the left and right arrow keys.
 
 ### Play Soniface
 
@@ -123,15 +123,15 @@ This function switches the Patterns automatically. It works only with 2 or more 
 
 The currently selected Pattern is duplicated with all instruments and settings.
 
- This allows the continuous development of the musical process.
+This allows the continuous development of the musical process.
 
 ### Add New Pattern
 
 An empty Pattern is inserted after the currently selected one.
 
- Tip: Use an empty Pattern to start or end a set.
+Tip: Use an empty Pattern to start or end a set.
 
- The parameters of the empty Pattern also affect the fade of the empty Pattern (for example, the room controller or the Chord).
+The parameters of the empty Pattern also affect the fade of the empty Pattern (for example, the room controller or the Chord).
 
 ### Delete Pattern
 

@@ -11,19 +11,19 @@ nav_order: 12
 
 The Sampler creates sounds based on audio files in Wav format (FAQ).
 
- They become the basis for spatial atmospheres, looping sequences and granular soundscapes.
+They become the basis for spatial atmospheres, looping sequences and granular soundscapes.
 
- The In & Out points define the start and end time of the sample.
+The In & Out points define the start and end time of the sample.
 
- Tip: Via the Grid Sound button it becomes the basis of the Gridsynth located in the same Maze, except for Volume and Pitch the rest of the Sampler becomes inactive.
+Tip: Via the Grid Sound button it becomes the basis of the Gridsynth located in the same Maze, except for Volume and Pitch the rest of the Sampler becomes inactive.
 
 ## Sample Editor
 
 The wave of the selected audio file is displayed in a circle. The In and Out points mark the selected range.
 
- The sample repeats automatically (One Shot Off). By activating Grid Sound, the selected sample becomes the basis of the Gridsynth.
+The sample repeats automatically (One Shot Off). By activating Grid Sound, the selected sample becomes the basis of the Gridsynth.
 
- The pitch must then be adjusted via the Pitch function, if necessary.
+The pitch must then be adjusted via the Pitch function, if necessary.
 
 ## Start Point
 
@@ -37,45 +37,45 @@ End point of the selected audio file and of the loop.
 
 Volume control of the current sample.
 
- By tapping on the symbol, the volume can be automated.
+By tapping on the symbol, the volume can be automated.
 
- Via envelope, linked to input controllers and effected via SideChain.
+Via envelope, linked to input controllers and effected via SideChain.
 
 ## Pitch Sampler & Granular Synth
 
 Control the pitch of the current sample. The slider is in relation to the pitch buttons.
 
- The function is also linked to the Harmonize function in the Granular menu and to the Melodic function in the Sequencer.
+The function is also linked to the Harmonize function in the Granular menu and to the Melodic function in the Sequencer.
 
 ## Playback Settings
 
 Samples are looped or played once with these settings.
 
- One Shot: The sample is played only once (on) or repeated (off).
+One Shot: The sample is played only once (on) or repeated (off).
 
- Play at Begin/ End: Play the sample at the beginning or end of the Pattern.
+Play at Begin/ End: Play the sample at the beginning or end of the Pattern.
 
- This is useful in combination with One Shot playback.
+This is useful in combination with One Shot playback.
 
 ## One Shot
 
 The sample is played only once (on) or repeated (off).
 
- If active it can also be played only once, by tapping the Maze point or the circular wave of the sample.
+If active it can also be played only once, by tapping the Maze point or the circular wave of the sample.
 
- The One Shot Delay function delays the playback.
+The One Shot Delay function delays the playback.
 
 ## Play at the Pattern beginning
 
 The sample is played once at the beginning of the Pattern after a Pattern change.
 
- This is linked to the selection of the playback settings One Shot and Play at Begin.
+This is linked to the selection of the playback settings One Shot and Play at Begin.
 
 ## Play at the Pattern ending
 
 The sample is played once at the end of the Pattern before a Pattern change.
 
- This is linked to the selection of the playback settings One Shot and Play at End.
+This is linked to the selection of the playback settings One Shot and Play at End.
 
 ## Reset Pitch
 
@@ -85,81 +85,81 @@ Set the pitch of the sample back to the original pitch.
 
 These settings link the Sampler to functions that affect the sound.
 
- Room: Activates linking of the Sampler to the Room Controller (Physics), the Main Reverb.
+Room: Activates linking of the Sampler to the Room Controller (Physics), the Main Reverb.
 
- Spatial: Activates spatial playback, controllable by the position of the Maze point on the screen.
+Spatial: Activates spatial playback, controllable by the position of the Maze point on the screen.
 
- Melodic: Plays notes in the Sampler sequencer by pitch (on) or time (off).
+Melodic: Plays notes in the Sampler sequencer by pitch (on) or time (off).
 
 ## Room Activation
 
 Activates the link between the Sampler and the Room Controller (Physics), the Main Reverb.
 
- If Room is not active in the Maze, the Room value of a Maze in which the Controller is active is taken.
+If Room is not active in the Maze, the Room value of a Maze in which the Controller is active is taken.
 
 ## Spatializer Activation
 
 On/Off switch for the spatiality of the sample (Stereo/Binaural/Surround).
 
- This is depending on the position of the Maze on the screen changes the stereo field or surround field.
+This is depending on the position of the Maze on the screen changes the stereo field or surround field.
 
- The desktop version supports up to 7.1 speakers.
+The desktop version supports up to 7.1 speakers.
 
 ## Mic Recording Modes
 
 Microphone channel 1 of the device is recorded and loaded into the Sampler. The file is saved locally as a wav (see FAQ).
 
- Mic Rec: Recording independent of loop.
+Mic Rec: Recording independent of loop.
 
- Iso: Main mix is muted on recording
+Iso: Main mix is muted on recording
 
- Sync Mic: Recording is placed in sequencer and One Shot is activated.
+Sync Mic: Recording is placed in sequencer and One Shot is activated.
 
- Scaled Mic: Note A is played, Sync Mic recording activated, main mix is muted.
+Scaled Mic: Note A is played, Sync Mic recording activated, main mix is muted.
 
 ## Main Sound Recording
 
 The mainmix audio signal is recorded as a stereo WAV file.
 
- All recordings are saved in the local Soniface folder (see FAQ), only there they can be deleted.
+All recordings are saved in the local Soniface folder (see FAQ), only there they can be deleted.
 
- The maximum recording duration is 24 minutes.
+The maximum recording duration is 24 minutes.
 
 ## Mic Recording
 
 Microphone channel 1 of the device is recorded and loaded into the Sampler. The file is saved locally as a wav (see FAQ).
 
- Mic Rec: Recording independent of loop.
+Mic Rec: Recording independent of loop.
 
- Iso: Main mix is muted on recording
+Iso: Main mix is muted on recording
 
- Sync Mic: Recording is placed in sequencer and One Shot is activated.
+Sync Mic: Recording is placed in sequencer and One Shot is activated.
 
- Scaled Mic: Note A is played, Sync Mic recording activated, main mix is muted.
+Scaled Mic: Note A is played, Sync Mic recording activated, main mix is muted.
 
 ## Isolated Mic Recording
 
 Microphone channel 1 of the device is recorded and loaded into the Sampler. The file is saved locally as a wav (see FAQ).
 
- Mic Rec: Recording independent of loop.
+Mic Rec: Recording independent of loop.
 
- Iso: Main mix is muted on recording
+Iso: Main mix is muted on recording
 
- Sync Mic: Recording is placed in sequencer and One Shot is activated.
+Sync Mic: Recording is placed in sequencer and One Shot is activated.
 
- Scaled Mic: Note A is played, Sync Mic recording activated, main mix is muted.
+Scaled Mic: Note A is played, Sync Mic recording activated, main mix is muted.
 
 ## Semi-Sync Mic
 
 Microphone channel 1 of the device is recorded and loaded into the Sampler. The file is saved locally as a wav (see FAQ).
 
- Mic Rec: Recording independent of loop.
+Mic Rec: Recording independent of loop.
 
- Iso: Main mix is muted on recording
+Iso: Main mix is muted on recording
 
- Sync Mic: Recording is placed in sequencer and One Shot is activated.
+Sync Mic: Recording is placed in sequencer and One Shot is activated.
 
- Scaled Mic: Note A is played, Sync Mic recording activated, main mix is muted.
+Scaled Mic: Note A is played, Sync Mic recording activated, main mix is muted.
 
 ## One Shot Delay
 
@@ -181,37 +181,37 @@ On/off switch to play a sample reverse.
 
 The sample becomes the basis for the Gridsynth within the Maze and is henceforth controlled via its Interfaces.
 
- The Sampler Editor functions Volume, Pitch, Reverse, In and Out points remain adjustable. The Sampler Sequencer, Granular and Effects Interfaces no longer have any influence on the sampler.
+The Sampler Editor functions Volume, Pitch, Reverse, In and Out points remain adjustable. The Sampler Sequencer, Granular and Effects Interfaces no longer have any influence on the sampler.
 
- Tip: adjust the pitch via the pitch knobs and buttons if necessary!
+Tip: adjust the pitch via the pitch knobs and buttons if necessary!
 
 ## Pitch Steps
 
 The button in the middle (o) resets the sample to the original sound.
 
- The buttons on the left control the pitch down (-) and up (+): fine, tone and octave.
+The buttons on the left control the pitch down (-) and up (+): fine, tone and octave.
 
 ## Melodic Mode
 
 Melodic Mode turns the Sampler Sequencer and LivePad into a harmonic pitch shifter.
 
- The sample is aligned with the fundamental in the Chord Interface.
+The sample is aligned with the fundamental in the Chord Interface.
 
- In alignment with the fundamental, the pitch of the sample may need to be adjusted.
+In alignment with the fundamental, the pitch of the sample may need to be adjusted.
 
 ## Sampling Interpolation
 
 The High Resolution mode enables a higher sound quality through interpolation.
 
- This requires more processing power, which can affect the smooth running of the app on older devices.
+This requires more processing power, which can affect the smooth running of the app on older devices.
 
- Hi-Res can be switched on/off globally in the Setup menu.
+Hi-Res can be switched on/off globally in the Setup menu.
 
 ## Portamento
 
 Portamento is a pitch transition from one note to the next.
 
- The slider determines how long the change from one note to the next takes.
+The slider determines how long the change from one note to the next takes.
 
 ## Pitch Reset
 
@@ -245,79 +245,79 @@ Minimally lowers the pitch of the sampler Interface.
 
 The library also provides a list of all microphone recordings, mainmix recordings (export) and user files.
 
- Tip: When selecting a new sample, the current one will be replaced.
+Tip: When selecting a new sample, the current one will be replaced.
 
- All recordings in Soniface were recorded by us developers and artist friends and are freely available.
+All recordings in Soniface were recorded by us developers and artist friends and are freely available.
 
- The samples come from travel, daily environment and studio sessions.
+The samples come from travel, daily environment and studio sessions.
 
 ## Sound recordings
 
 The folder contains nature recordings, atmospheres and sounds from the daily environment.
 
- They can be freely used for new creations and music pieces.
+They can be freely used for new creations and music pieces.
 
- We would like to encourage you to explore and sample your own environment via mic recording.
+We would like to encourage you to explore and sample your own environment via mic recording.
 
 ## User files
 
 Include your own wav files via the local Soniface folder:
 
- iOS: in the Files folder
+iOS: in the Files folder
 
- Android: disk/ Android/ data/ com.MazeTools.Soniface/ files
+Android: disk/ Android/ data/ com.MazeTools.Soniface/ files
 
- Windows: C:/User/ Name/ AppData/ LocalLow/ Ectoplastic UG/ Mazetools Soniface Lab/ Files
+Windows: C:/User/ Name/ AppData/ LocalLow/ Ectoplastic UG/ Mazetools Soniface Lab/ Files
 
- Mac (Steam): /User/ Username/ Library/ Application Support/ com.Mazetools. Sonifacelab
+Mac (Steam): /User/ Username/ Library/ Application Support/ com.Mazetools. Sonifacelab
 
- Mac (itunes) /User/ Name/ Library/ Containers/ com.Mazetools.Sonifacelab/ Data/ Library/ Application Support/ com.Mazetools.Sonifacelab
+Mac (itunes) /User/ Name/ Library/ Containers/ com.Mazetools.Sonifacelab/ Data/ Library/ Application Support/ com.Mazetools.Sonifacelab
 
 ## Soniface audio recordings
 
 List of main mix recordings.
 
- The files are saved in the local Soniface folder.
+The files are saved in the local Soniface folder.
 
 ## Microphone recordings
 
 List of all mic recordings.
 
- The files are stored in the local Soniface folder.
+The files are stored in the local Soniface folder.
 
 ## Musical samples
 
 The folder contains recordings of instruments and sounds. They can be freely used for new creations and music pieces.
 
- We would like to encourage to record your own instruments or voice via mic recording.
+We would like to encourage to record your own instruments or voice via mic recording.
 
- Tip: Use instrument sounds in Granular Sampler for soundscapes and melodies.
+Tip: Use instrument sounds in Granular Sampler for soundscapes and melodies.
 
 ## Sampler Sequencer
 
 In relation to the In and Out points, the waveform is displayed in rings, the steps are placed in the circle.
 
- The Interface includes two modes that are switched by the Melodic Mode.
+The Interface includes two modes that are switched by the Melodic Mode.
 
- Melodic off: the sequencer takes the time of the sample as the axis of the radius.
+Melodic off: the sequencer takes the time of the sample as the axis of the radius.
 
- Melodic on: the sequencer takes the pitch on the axis of the radius.
+Melodic on: the sequencer takes the pitch on the axis of the radius.
 
 ## Sampler Step
 
 The notes of the sequencer can be set free or quantized.
 
- For quantized steps activate Quantize Steps.
+For quantized steps activate Quantize Steps.
 
- The Portamento effect creates a transition from one note to the next in Melodic Mode.
+The Portamento effect creates a transition from one note to the next in Melodic Mode.
 
 ## Sampler Sequence Speed
 
 In relation to the main tempo, the sequence runs slower or faster.
 
- The sequence phase is thereby divided (left) or multiplied (right).
+The sequence phase is thereby divided (left) or multiplied (right).
 
- The normal state is in the middle position.
+The normal state is in the middle position.
 
 ## Sampler Sequence Clear
 
@@ -331,59 +331,59 @@ All steps of the sequence are shifted according to the quantization.
 
 Verändere den Klang von Sampler und Granular durch verschiedene Effekte.
 
- Tipp: Um Effekte variieren zu lassen, kann jeder Controller automatisiert (doppel tab)
+Tipp: Um Effekte variieren zu lassen, kann jeder Controller automatisiert (doppel tab)
 
- Durch Loop Recording (oben rechts auf dem Bildschirm) werden die Bewegung des Controllers aufgezeichnet.
+Durch Loop Recording (oben rechts auf dem Bildschirm) werden die Bewegung des Controllers aufgezeichnet.
 
 ## High-Pass
 
 Radius (X): Frequency
 
- Angle (Y): Resonance peak (Q-factor)
+Angle (Y): Resonance peak (Q-factor)
 
- The Hi-Pass reduces low frequencies from the center of the circle outwards.
+The Hi-Pass reduces low frequencies from the center of the circle outwards.
 
- Tip: Adjust the filter carefully, automation can cause crackling!
+Tip: Adjust the filter carefully, automation can cause crackling!
 
 ## Low-Pass
 
 Radius (X): Frequency
 
- Angle (Y): Resonance peak (Q-factor)
+Angle (Y): Resonance peak (Q-factor)
 
- Low-pass reduces high frequencies from the center of the circle to the outside.
+Low-pass reduces high frequencies from the center of the circle to the outside.
 
- Tip: Flat peak at 9 o'clock position, high peak at 6 o'clock position.
+Tip: Flat peak at 9 o'clock position, high peak at 6 o'clock position.
 
 ## Echo Effect
 
 Radius (X): Echo Volume
 
- Angle (Y): Time
+Angle (Y): Time
 
- The shortest time is at 8 o'clock position, the longest at 10 o'clock position.
+The shortest time is at 8 o'clock position, the longest at 10 o'clock position.
 
- Tip: The echo works in conjunction with the Feedback controller.
+Tip: The echo works in conjunction with the Feedback controller.
 
 ## Feedback & Distortion
 
 Radius (X): Echo Feedback Strength
 
- Angle (Y): Distortion Level.
+Angle (Y): Distortion Level.
 
- The circle is divided into two half-ranges: Echo/ Feedback (upper half) and Echo/ Feedback/ Distortion (lower half).
+The circle is divided into two half-ranges: Echo/ Feedback (upper half) and Echo/ Feedback/ Distortion (lower half).
 
- Tip: lowest distortion at 3 o'clock position, highest distortion at 8 o'clock position.
+Tip: lowest distortion at 3 o'clock position, highest distortion at 8 o'clock position.
 
 ## Chorus Effect
 
 Radius (X): Chorus Volume
 
- Angle (Y): Frequency of the oscillation.
+Angle (Y): Frequency of the oscillation.
 
- The chorus affects both the pitch and the stereo field.
+The chorus affects both the pitch and the stereo field.
 
- Tip: Lowest oscillation at 9 o'clock position.
+Tip: Lowest oscillation at 9 o'clock position.
 
 ## Impulse Gestures
 
@@ -397,121 +397,121 @@ A sample can be linked to keyboard numbers 0-9.
 
 Radius (X): Frequency
 
- Angle (Y): Resonance Peak
+Angle (Y): Resonance Peak
 
- Frequency and Resonance serve as the filter base of the LFO Movement. The speed and volume of the LFO controls the LFO Movement.
+Frequency and Resonance serve as the filter base of the LFO Movement. The speed and volume of the LFO controls the LFO Movement.
 
 ## LFO Filter Movement
 
 Radius (X): Strength of amplitude
 
- Angle (Y): Speed of oscillation
+Angle (Y): Speed of oscillation
 
- The speed and amplitude of the LFO filter refer to a base frequency. This is set by the LFO Filter Base Controller.
+The speed and amplitude of the LFO filter refer to a base frequency. This is set by the LFO Filter Base Controller.
 
 ## Spatial Behavior
 
 Radius (X): Spatialize
 
- Angle (Y): Spatial Width.
+Angle (Y): Spatial Width.
 
- In the setup of 4 or more speakers, the Spatialize Controller determines how wide or narrow the spatial effect of the sound is. This is similar to the perception of the distance of the sound from the listening position.
+In the setup of 4 or more speakers, the Spatialize Controller determines how wide or narrow the spatial effect of the sound is. This is similar to the perception of the distance of the sound from the listening position.
 
 ## Trigger Envelope
 
 Radius (X): Multiplier of the envelope length
 
- Angle(Y): Modification of the envelope 
+Angle(Y): Modification of the envelope 
 
- The angle refers to the ratios of attack, hold and decay.
+The angle refers to the ratios of attack, hold and decay.
 
- A short angle refers to a short attack, and long decay. A medium angle has a longer attack, longer hold and shorter decay. A large angle has a long attack and a short decay.
+A short angle refers to a short attack, and long decay. A medium angle has a longer attack, longer hold and shorter decay. A large angle has a long attack and a short decay.
 
 ## Reverb Volume and Decay
 
 Radius (X): Volume of the reverb
 
- Angle (Y): Length of the reverb
+Angle (Y): Length of the reverb
 
- The reverb effect is a combination of three controllers that shape the sound of the reverb. These are automatically enabled as soon as a reverb controller is activated. Each controller can be automated individually.
+The reverb effect is a combination of three controllers that shape the sound of the reverb. These are automatically enabled as soon as a reverb controller is activated. Each controller can be automated individually.
 
 ## Reverb Delay and Filter
 
 Radius (X): Delay time until the reverb begins
 
- Angle (Y): Tone color of the reverb, ranging from lower to higher frequencies
+Angle (Y): Tone color of the reverb, ranging from lower to higher frequencies
 
- The reverb effect is a combination of three controllers that shape the sound of the reverb. These are automatically enabled as soon as a reverb controller is activated. Each controller can be automated individually.
+The reverb effect is a combination of three controllers that shape the sound of the reverb. These are automatically enabled as soon as a reverb controller is activated. Each controller can be automated individually.
 
 ## Reverb Room Size and Stereo
 
 Radius (X): Room size of the reverb, from small to large
 
- Angle (Y): Spatial balance of the reverb, from left-weighted to centered to right-weighted
+Angle (Y): Spatial balance of the reverb, from left-weighted to centered to right-weighted
 
- The reverb effect is a combination of three controllers that shape the sound of the reverb. These are automatically enabled as soon as a reverb controller is activated. Each controller can be automated individually.
+The reverb effect is a combination of three controllers that shape the sound of the reverb. These are automatically enabled as soon as a reverb controller is activated. Each controller can be automated individually.
 
 ## Granular Sampler
 
 The sample is divided into short pieces from 1 to 50 ms. The virtual playhead turns grains into synthesized sound.
 
- The Grain Shape Controller controls the length and speed of playback.
+The Grain Shape Controller controls the length and speed of playback.
 
- The Harmonize Controller matches the granular sample to the tones of the Chord Interface.
+The Harmonize Controller matches the granular sample to the tones of the Chord Interface.
 
 ## Grain Shape
 
 Radius (X): Grain length
 
- Angle (Y): Distance/speed
+Angle (Y): Distance/speed
 
- The distance between individual grains increases as the angle increases.
+The distance between individual grains increases as the angle increases.
 
- Tip: Adding or automating the Grain Shape creates a lot of dynamics.
+Tip: Adding or automating the Grain Shape creates a lot of dynamics.
 
 ## Grain Fade
 
 Radius (X): Grain Fade-In
 
- Angle (Y): Grain Fade-Out
+Angle (Y): Grain Fade-Out
 
- The envelope controls the fade-in and fade-out of the grain and the smaller/larger the angle, the more the accent of the grain shifts.
+The envelope controls the fade-in and fade-out of the grain and the smaller/larger the angle, the more the accent of the grain shifts.
 
 ## Grain Sinus
 
 Radius (X): Amplitude
 
- Angle (Y): Speed
+Angle (Y): Speed
 
- The position of the playhead can be permanently changed by the Sine Amplitude. In this way, a more organic stretching of the sample is achieved.
+The position of the playhead can be permanently changed by the Sine Amplitude. In this way, a more organic stretching of the sample is achieved.
 
 ## Grain Walking
 
 Radius (X): Playback position/running speed
 
- Angle (Y): Timeline forward/ backward
+Angle (Y): Timeline forward/ backward
 
- At 180° the playback speed is 0 and the playback head stops.
+At 180° the playback speed is 0 and the playback head stops.
 
- Tip: The Walking Controller can be animated via the Sampler Sequencer.
+Tip: The Walking Controller can be animated via the Sampler Sequencer.
 
 ## Grain Harmonize & Arpeggiator
 
 Radius (X): Scale Length
 
- Angle (Y): Octave
+Angle (Y): Octave
 
- The generated Arpeggiator effect results from the transfer of the selected notes of the Chord surface to the Grains. The sequence of notes of the Arpeggiator can be upwards, downwards, in both directions or randomly.
+The generated Arpeggiator effect results from the transfer of the selected notes of the Chord surface to the Grains. The sequence of notes of the Arpeggiator can be upwards, downwards, in both directions or randomly.
 
- Tip: If necessary, adjust the sample pitch manually.
+Tip: If necessary, adjust the sample pitch manually.
 
 ## Granular Mode On/ Off
 
 Turns the Grain Shape control on/off to activate the Granular Sampler.
 
- The Granular Synth splits the sample into short pieces of about 1 to 50 ms.
+The Granular Synth splits the sample into short pieces of about 1 to 50 ms.
 
- Via the virtual playhead, each grain becomes a synthesized sound.
+Via the virtual playhead, each grain becomes a synthesized sound.
 
 ## Harmonic Granular Grid
 
@@ -571,107 +571,107 @@ This means that as soon as the beat loop restarts after four repetitions, the no
 
 Live input of notes and parameters on area of screen.
 
- Each input is repeated in a sequence: Impulse enters notes, Envelope adjusts dynamics, Filter controls timbre and Effects controls texture.
+Each input is repeated in a sequence: Impulse enters notes, Envelope adjusts dynamics, Filter controls timbre and Effects controls texture.
 
- Loop speed is variable, input is Rhythmically quantized (see Maze Editor/ Rhythm/ Quantization).
+Loop speed is variable, input is Rhythmically quantized (see Maze Editor/ Rhythm/ Quantization).
 
- Tip: X- and Y-axis can be linked to other input tools via Connection.
+Tip: X- and Y-axis can be linked to other input tools via Connection.
 
 ## Sampler Impulse
 
 X-axis: Chord/ Scale of Chord Interface
 
- Y-axis: Octave
+Y-axis: Octave
 
- When Melodic is active, the XY field acts as a harmonic pitch shifter of the sample (note loop points). Tap or swipe on the screen to play and loop the Maze's melodic Sampler live.
+When Melodic is active, the XY field acts as a harmonic pitch shifter of the sample (note loop points). Tap or swipe on the screen to play and loop the Maze's melodic Sampler live.
 
- Each interaction overwrites the previous input.
+Each interaction overwrites the previous input.
 
 ## Sampler Envelope
 
 X-Axis: LFO Speed
 
- Multi Touch Rotation: LFO Strength
+Multi Touch Rotation: LFO Strength
 
- The envelope controls the LFO Movement slider in the Effects menu of the Sampler.
+The envelope controls the LFO Movement slider in the Effects menu of the Sampler.
 
 ## Sampler Filter
 
 X-axis: Filter Freuqenz
 
- Y-axis: Distortion
+Y-axis: Distortion
 
- The input via Multi Touch generates a filter peak.
+The input via Multi Touch generates a filter peak.
 
- The interaction animates the filter controllers in the Editor.
+The interaction animates the filter controllers in the Editor.
 
 ## Sampler Effects
 
 X-axis: Echo Volume
 
- Y-axis: Echo Time
+Y-axis: Echo Time
 
- Rotation: Chorus
+Rotation: Chorus
 
- The height of the rectangle affects the strength of the echo and the width affects the speed.
+The height of the rectangle affects the strength of the echo and the width affects the speed.
 
- The chorus effect is created by rotating the rectangle with the fingertips.
+The chorus effect is created by rotating the rectangle with the fingertips.
 
 ## LivePad Input: Granular
 
 Live input of notes and parameters on area of screen.
 
- Each input is repeated in a sequence: Impulse enters notes, Envelope adjusts dynamics, Filter controls timbre and Effects controls texture.
+Each input is repeated in a sequence: Impulse enters notes, Envelope adjusts dynamics, Filter controls timbre and Effects controls texture.
 
- Loop speed is variable, input is Rhythmically quantized (see Maze Editor/ Rhythm/ Quantization).
+Loop speed is variable, input is Rhythmically quantized (see Maze Editor/ Rhythm/ Quantization).
 
- Tip: X- and Y-axis can be linked to other input tools via Connection.
+Tip: X- and Y-axis can be linked to other input tools via Connection.
 
 ## Granular Impulse
 
 X-axis: Sample Time/ Scale (Chord)
 
- Y-axis: Sample Volume/ Octave
+Y-axis: Sample Volume/ Octave
 
- The Granular Sampler is playable in two ways: a time-based mode and a hormonic mode linked to the Chord Interface.
+The Granular Sampler is playable in two ways: a time-based mode and a hormonic mode linked to the Chord Interface.
 
- The mode changes by activating the Harmonize controller in the Granular menu.
+The mode changes by activating the Harmonize controller in the Granular menu.
 
 ## Granular Envelope
 
 X-axis: Grain length
 
- Y-axis: Grain distance (in relation to the touch gesture)
+Y-axis: Grain distance (in relation to the touch gesture)
 
- The Granular Sampler divides the sample into many individual grains. It allows to generate a sound surface from a few sample milliseconds.
+The Granular Sampler divides the sample into many individual grains. It allows to generate a sound surface from a few sample milliseconds.
 
 ## Granular Filter
 
 X-axis: Filter Freuqenz
 
- Y-axis: Distortion
+Y-axis: Distortion
 
- The input via Multi Touch generates a filter peak.
+The input via Multi Touch generates a filter peak.
 
- The interaction animates the filter controllers in the Editor.
+The interaction animates the filter controllers in the Editor.
 
 ## Granular Effects
 
 X-axis: Echo Volume
 
- Y-axis: Echo Time
+Y-axis: Echo Time
 
- Rotation: Chorus
+Rotation: Chorus
 
- The height of the rectangle affects the strength of the echo and the width affects the speed.
+The height of the rectangle affects the strength of the echo and the width affects the speed.
 
- The chorus effect is created by rotating the rectangle with the fingertips.
+The chorus effect is created by rotating the rectangle with the fingertips.
 
 ## Weird Mode
 
 Simultaneous control of impulses, envelope, filter and effects.
 
- Tip: delete unloved tracks individually in the respective menu by Clear and keep the rest.
+Tip: delete unloved tracks individually in the respective menu by Clear and keep the rest.
 
 > *Also in: [Grid Synth](../10-grid-synth/) · [Rhythm](../13-rhythm/)*
 
@@ -679,7 +679,7 @@ Simultaneous control of impulses, envelope, filter and effects.
 
 The speed of each interaction loop can be halved or multiplied in relation to the main loop.
 
- Inputs already made are now played back faster or slower in relation.
+Inputs already made are now played back faster or slower in relation.
 
 > *Also in: [Grid Synth](../10-grid-synth/) · [Rhythm](../13-rhythm/)*
 
@@ -693,7 +693,7 @@ The Live Hub is a listing of all LivePad on top of each other. These are played 
 
 Simultaneous control of impulses, envelope, filter and effects.
 
- Tip: delete unloved tracks individually in the respective menu by Clear and keep the rest.
+Tip: delete unloved tracks individually in the respective menu by Clear and keep the rest.
 
 > *Also in: [Grid Synth](../10-grid-synth/) · [Rhythm](../13-rhythm/)*
 
@@ -701,19 +701,19 @@ Simultaneous control of impulses, envelope, filter and effects.
 
 Sampler presets contain many variations of sounds and instruments, granular settings, sequences and effects.
 
- Loading a preset overwrites the Sampler instrument of the current Mazes (no undo).
+Loading a preset overwrites the Sampler instrument of the current Mazes (no undo).
 
 ## Save Sampler Preset
 
 Save a custom preset and name it.
 
- The preset will be saved to the local Soniface folder and can be shared this way (FAQ).
+The preset will be saved to the local Soniface folder and can be shared this way (FAQ).
 
 ## Add Sampler Preset
 
 Load a preset into the current Sampler.
 
- Presets contain different sounds and instruments samples, settings, effects and sequences that can be freely modified.
+Presets contain different sounds and instruments samples, settings, effects and sequences that can be freely modified.
 
- Loading the preset overwrites the current settings.
+Loading the preset overwrites the current settings.
 

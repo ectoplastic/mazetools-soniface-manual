@@ -11,11 +11,11 @@ nav_order: 15
 
 In this Interface, body movements can be linked to a Maze controller.
 
- For example, moving your hand up and down can control the volume of a synth.
+For example, moving your hand up and down can control the volume of a synth.
 
- Tracking is done via the device's webcam or via Kinect or RealSense.
+Tracking is done via the device's webcam or via Kinect or RealSense.
 
- To do this, activate the camera in the Motions menu or select a recorded movement (Capture).
+To do this, activate the camera in the Motions menu or select a recorded movement (Capture).
 
 > *Also in: [Controller & Automation](../14-controller-automation/)*
 
@@ -23,9 +23,9 @@ In this Interface, body movements can be linked to a Maze controller.
 
 Delta describes the change value of a controller.
 
- If Delta is active, an effect becomes active at the moment the change takes place, for example.
+If Delta is active, an effect becomes active at the moment the change takes place, for example.
 
- In combination with the Dynamic Mapping Curve, this change is related to the intensity and speed of a gesture.
+In combination with the Dynamic Mapping Curve, this change is related to the intensity and speed of a gesture.
 
 > *Also in: [Controller & Automation](../14-controller-automation/)*
 
@@ -33,9 +33,9 @@ Delta describes the change value of a controller.
 
 Kinect is a body sensing camera developed for the XBox game console from Microsoft V2.
 
- After installing the respective SDKs (Windows), it can be used in Soniface Lab. The Kinect works when the red infrared lights are visible.
+After installing the respective SDKs (Windows), it can be used in Soniface Lab. The Kinect works when the red infrared lights are visible.
 
- When it has detected you, the Grid model of the body appears. Now you can associate X & Y parameters of the controller with a body part or gesture.
+When it has detected you, the Grid model of the body appears. Now you can associate X & Y parameters of the controller with a body part or gesture.
 
 > *Also in: [Controller & Automation](../14-controller-automation/)*
 
@@ -367,9 +367,9 @@ The controller is controlled by the movement of the right foot forward and backw
 
 In this Interface, body movements can be linked to a Maze controller.
 
- For example, moving your hand up and down can control the volume of a synth.
+For example, moving your hand up and down can control the volume of a synth.
 
- Tracking is done via the LeapMotion.
+Tracking is done via the LeapMotion.
 
 > *Also in: [Controller & Automation](../14-controller-automation/)*
 
@@ -425,9 +425,9 @@ On/off switch: When the hand goes outside the tracking range, the controller val
 
 Delta refers to the change value of a movement.
 
- When Delta is active, an effect, for example, becomes active at the moment the change takes place.
+When Delta is active, an effect, for example, becomes active at the moment the change takes place.
 
- In combination with the Dynamic Mapping Curve, this change is related to the intensity/speed of a movement.
+In combination with the Dynamic Mapping Curve, this change is related to the intensity/speed of a movement.
 
 > *Also in: [Controller & Automation](../14-controller-automation/)*
 
@@ -435,7 +435,7 @@ Delta refers to the change value of a movement.
 
 After installing the Leap Motion drivers (Windows 10), the controller works Plug&Play.
 
- Once the USB connection is established, small icons of the hands are visible. Now any Maze controller can be connected with a hand/finger gesture.
+Once the USB connection is established, small icons of the hands are visible. Now any Maze controller can be connected with a hand/finger gesture.
 
 > *Also in: [Controller & Automation](../14-controller-automation/)*
 
@@ -727,9 +727,9 @@ The controller is controlled by the flexion of the palm on the entire vertical a
 
 Create your own multitouch controllers and perform them on the Grid.
 
- The Interface allows Maze controllers to be linked to the XY position of the Maze point on the screen.
+The Interface allows Maze controllers to be linked to the XY position of the Maze point on the screen.
 
- In addition, the touch gestures distance and rotation with 2-5 fingers, can be placed around the Maze.
+In addition, the touch gestures distance and rotation with 2-5 fingers, can be placed around the Maze.
 
 > *Also in: [Controller & Automation](../14-controller-automation/)*
 
@@ -797,17 +797,17 @@ The controller is controlled by the distance of five fingers. The Maze point alw
 
 Activate body tracking via webcam or Kinect and link movements with sounds and music.
 
- Use different presets or create links manually through automations.
+Use different presets or create links manually through automations.
 
- Each Maze controller can be automated by double tab on the controller. In the Automation menu you can choose Body as a connection.
+Each Maze controller can be automated by double tab on the controller. In the Automation menu you can choose Body as a connection.
 
 ## Motion Tracking & Capture Editor
 
 Activate body tracking via webcam or Kinect and link movements with sounds and music.
 
- Here you can record, define, change the speed as well as loop motions.
+Here you can record, define, change the speed as well as loop motions.
 
- Recording motions is useful to create shortcuts and presets manually and not to act live permanently.
+Recording motions is useful to create shortcuts and presets manually and not to act live permanently.
 
 ## Mocap beginning
 
@@ -821,7 +821,7 @@ End point of the selected movement. The position is saved individually for each 
 
 Fader to change the playback speed of a mocap.
 
- The setting is saved for each Pattern individually.
+The setting is saved for each Pattern individually.
 
 ## Mocap Play
 
@@ -855,25 +855,25 @@ On/off switch to play the mocap forward and backward in the loop.
 
 Use your webcam, selfi cam or external webcams for motion tracking. Make sure you have plenty of light to see your body.
 
- Soniface uses camera-based, on-device, real-time body pose tracking based on MediaPipe (Google Research).
+Soniface uses camera-based, on-device, real-time body pose tracking based on MediaPipe (Google Research).
 
- The system used in this app uses only pre-trained models and does not pass any data to Google.
+The system used in this app uses only pre-trained models and does not pass any data to Google.
 
 ## MoveNet Body Tracking On/Off
 
 MoveNet is a camera-based, real-time body tracking.
 
- It is based on TensorFlow, pose estimation uses a ML model.
+It is based on TensorFlow, pose estimation uses a ML model.
 
- The system used in this app only uses already trained models and does not forward any data.
+The system used in this app only uses already trained models and does not forward any data.
 
 ## Kinect On/Off
 
 Kinect is a body sensing camera developed for the XBox game console from Microsoft V2.
 
- After installing the respective SDKs (Windows), it can be used in Soniface Lab. The Kinect works when the red infrared lights are visible.
+After installing the respective SDKs (Windows), it can be used in Soniface Lab. The Kinect works when the red infrared lights are visible.
 
- When it has detected you, the Grid model of the body appears. Now you can associate X & Y parameters of the controller with a body part or gesture.
+When it has detected you, the Grid model of the body appears. Now you can associate X & Y parameters of the controller with a body part or gesture.
 
 ## Camera Selection
 
@@ -903,5 +903,5 @@ Save a mocap capture as a preset
 
 Sorts all body tracking presets in Soniface by body parts&
 
- The list is automatically expanded as new presets are saved.
+The list is automatically expanded as new presets are saved.
 

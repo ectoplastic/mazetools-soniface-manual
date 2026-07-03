@@ -119,7 +119,8 @@ function Format-Text($t) {
     if (!$t) { return "" }
     $t = $t -replace [char]167, "`n`n"   # § paragraph separator
     $t = $t -replace [char]37,  "`n`n"   # % paragraph separator (Mutant)
-    return $t.Trim()
+    $paragraphs = ($t -split "`n`n") | ForEach-Object { $_.Trim() } | Where-Object { $_ -ne "" }
+    return ($paragraphs -join "`n`n")
 }
 
 function Write-Md($path, $content) {

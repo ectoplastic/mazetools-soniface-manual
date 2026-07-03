@@ -11,29 +11,29 @@ nav_order: 5
 
 The first menu contains settings for pitch, tempo and volume of a pattern. Other functions include settings for sound, quality, Ableton Link, and the Reset Sound function if the device driver changes.
 
- Master includes an equalizer that affects the master bus. The System tab contains settings for interface design, audio and video options such as quality and latency.
+Master includes an equalizer that affects the master bus. The System tab contains settings for interface design, audio and video options such as quality and latency.
 
- The Connections section contains settings for MIDI and head tracking (iOS).
+The Connections section contains settings for MIDI and head tracking (iOS).
 
 ## Graphic Rendering Quality
 
 This setting affects the visual display and performance.
 
- It increases the visual quality and richness of detail in the Gridsynth lines as well as the Flying Notes (High, Highest).
+It increases the visual quality and richness of detail in the Gridsynth lines as well as the Flying Notes (High, Highest).
 
- It is a means to increase the fluidity of Soniface on older devices (Low, Lowest).
+It is a means to increase the fluidity of Soniface on older devices (Low, Lowest).
 
 ## Folder
 
 An audio folder to save/load recordings and audio files.
 
- This function is still in Beta state and will be further developed continuously.
+This function is still in Beta state and will be further developed continuously.
 
 ## MIDI Input
 
 Select a MIDI input controller to play the Chord via a MIDI keyboard.
 
- All Maze controllers have a MIDI Learn function in the Automation menu to connect external controllers.
+All Maze controllers have a MIDI Learn function in the Automation menu to connect external controllers.
 
 ## Reset Volume, Pitch & BPM
 
@@ -47,11 +47,11 @@ Turn the spatial behavior for the sake of a sound system opposite position.
 
 On/Off switch for Ableton Link, a technology that synchronizes tempo with other Link apps over a local network.
 
- Make sure to be on the same network as the other Link peers.
+Make sure to be on the same network as the other Link peers.
 
- Sync shifts can be compensated via Reset Time or the Offset fader
+Sync shifts can be compensated via Reset Time or the Offset fader
 
- e.g. for different latency/buffer settings.
+e.g. for different latency/buffer settings.
 
 ## Interface Zoom Level
 
@@ -61,17 +61,17 @@ Zoom in/ out the whole Soniface user Interface.
 
 The smaller this memory is, the lower the latency, but also higher computer demands on the system.
 
- Depending on the sample rate, this varies in the number of milliseconds.
+Depending on the sample rate, this varies in the number of milliseconds.
 
- Low latencies enable more dynamic input and accurate visualizations.
+Low latencies enable more dynamic input and accurate visualizations.
 
- High latencies improve performance on older devices.
+High latencies improve performance on older devices.
 
 ## Gridsynth Lagacy Mode
 
 Since Soniface 2.6 the Gridsynth is newly developed. Maze Synth enabled by default, but sounds a bit different than the old Gridsynth.
 
- Sets before 2.6 are automatically loaded with the old Gridsynth.
+Sets before 2.6 are automatically loaded with the old Gridsynth.
 
 ## Fix Volume
 
@@ -93,15 +93,15 @@ Sets the Soniface Player loop back to the start position. This may be necessary 
 
 If the sound is missing after changing the output device (speaker, Bluetooth, headphones) you can reset the audio session.
 
- This route Soniface to your new output device (speaker, Bluetooth, headphones).
+This route Soniface to your new output device (speaker, Bluetooth, headphones).
 
 ## Gridsynth Hi-Res Quality
 
 The High Resolution mode enables a higher sound quality through interpolation.
 
- This requires more processing power, which can affect the fluidity of the app on older devices and large projects.
+This requires more processing power, which can affect the fluidity of the app on older devices and large projects.
 
- If you activated the global Hi-Res mode, this setting will be bypassed and automatically act as Hi-Res mode active.
+If you activated the global Hi-Res mode, this setting will be bypassed and automatically act as Hi-Res mode active.
 
 ## Global Hi-Res Mode
 
@@ -111,55 +111,55 @@ Activates Hi-Res mode for all Samplers and Rhythm instruments.
 
 Changes the pitch of all instruments in the entire Pattern.
 
- With Fix Pitch this value can be fixed for all Patterns.
+With Fix Pitch this value can be fixed for all Patterns.
 
 ## Main Tempo
 
 Changes the tempo of the entire Pattern and all sequencer instruments.
 
- With Fix Tempo this value can be set for all Patterns.
+With Fix Tempo this value can be set for all Patterns.
 
 ## Main Volume
 
 Changes the volume of all instruments in the entire Pattern.
 
- With Fix Volume this value can be fixed for all Patterns.
+With Fix Volume this value can be fixed for all Patterns.
 
 ## Audio Settings
 
 The menu contains parameters to affect the overall sound.
 
- These include volume, pitch, and tempo.
+These include volume, pitch, and tempo.
 
- Using Ableton Link, the tempo/BPM can be synchronized with other Link-enabled apps. For more information, visit Ableton.com/link.
+Using Ableton Link, the tempo/BPM can be synchronized with other Link-enabled apps. For more information, visit Ableton.com/link.
 
 ## System Settings
 
 The latency and quality of the app can be set here.
 
- The settings allow higher quality for high-end devices and lower settings for low-end devices.
+The settings allow higher quality for high-end devices and lower settings for low-end devices.
 
 ## MIDI Connections
 
 MIDI IN/ OUT allows connection to other apps and external MIDI capable devices.
 
- The actual setting is done via the Automation Menu of a Maze Controller.
+The actual setting is done via the Automation Menu of a Maze Controller.
 
- MIDI In allows the Radius (X) and Angle (Y) values of each Maze Controller to be controlled by external controllers.
+MIDI In allows the Radius (X) and Angle (Y) values of each Maze Controller to be controlled by external controllers.
 
- MIDI Out allows the Maze Controller to be used to control external apps or devices.
+MIDI Out allows the Maze Controller to be used to control external apps or devices.
 
 ## Sample Rate
 
 Changing the sampling rate or sampling frequency is only recommended for desktop devices and is only conditionally changeable for mobile devices.&
 
- A lower rate can improve the performance of older devices if they support it.
+A lower rate can improve the performance of older devices if they support it.
 
 ## Touch Gestures On/ Off
 
 On: Different controllers of a Maze can be controlled with 2-5 fingers.
 
- Off: Multiple Mazes can be moved on the screen at the same time.
+Off: Multiple Mazes can be moved on the screen at the same time.
 
 ## Legacy Tuning
 
@@ -181,9 +181,9 @@ Ableton Link is a technology that synchronizes tempo with other Link apps over a
 
 On/Off switch for Inter-App Audio (IAA) and Audiobus function for iPhone and iPad.
 
- If the audio stream is not routed, turn the button on manually.
+If the audio stream is not routed, turn the button on manually.
 
- Soniface can be launched as an app from a host app or loaded in a host app.
+Soniface can be launched as an app from a host app or loaded in a host app.
 
 ## Background audio
 
@@ -209,9 +209,9 @@ Initialization when an external monitor is connected.
 
 Spatializer for the spatial arrangement of sound sources during stereo playback with headphones.
 
- The binaural rendering is still in beta, but already achieves good results with the sampler.
+The binaural rendering is still in beta, but already achieves good results with the sampler.
 
- The function is particularly effective with HFTF-capable headphones (e.g. Airpods with 3D audio).
+The function is particularly effective with HFTF-capable headphones (e.g. Airpods with 3D audio).
 
 ## Grid MIDI Out
 
@@ -221,9 +221,9 @@ The notes of the Gridsynth are output via MIDI Out, e.g. to control another synt
 
 Head-based rendering of the sound scene using binaural audio with HFTF capable headphones (e.g. Airpods with 3D Audio).
 
- The head is in the center of the Grid and the spatialized sound sources and a virtual surround sound scene is created.
+The head is in the center of the Grid and the spatialized sound sources and a virtual surround sound scene is created.
 
- The binaural rendering is still in beta state, but already achieves good results with the sampler.
+The binaural rendering is still in beta state, but already achieves good results with the sampler.
 
 ## Reset Head Rotation
 
@@ -277,7 +277,7 @@ The filter curve can be defined narrow or wide.
 
 X: Defines the peak/ notch frequency
 
- Y: Defines the Peak/ Notch level
+Y: Defines the Peak/ Notch level
 
 ## Q-Factor
 
@@ -287,5 +287,5 @@ A high-Q filter will have a narrow passband and a low-Q filter will have a wide 
 
 X: Defines the frequency
 
- Y: Defines the shelf level
+Y: Defines the shelf level
 

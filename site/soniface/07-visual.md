@@ -11,11 +11,11 @@ nav_order: 7
 
 The Grid connects sound and visualization. The main instrument here is the gridsynth of a maze. Tap on the three small gray dots to learn more and move on to the next text section.
 
- The basic structure follows a constantly running loop – a sequence in which further sequences of different instruments run. Therefore, you turn on instruments by turning up the volume.
+The basic structure follows a constantly running loop – a sequence in which further sequences of different instruments run. Therefore, you turn on instruments by turning up the volume.
 
- The Gridsynth works with fixed notes, chords or scales of the key interface. Multiple mazes with active Gridsynth influence each other in sound and key.
+The Gridsynth works with fixed notes, chords or scales of the key interface. Multiple mazes with active Gridsynth influence each other in sound and key.
 
- The Grid is also in relation to the other instruments and their visualization. Rhythm and sampler have Grid modes, which set the pitch of both instruments in relation to the maze position on the Grid.
+The Grid is also in relation to the other instruments and their visualization. Rhythm and sampler have Grid modes, which set the pitch of both instruments in relation to the maze position on the Grid.
 
 > *Also in: [Introduction](../01-introduction/) · [Grid Synth](../10-grid-synth/)*
 
@@ -23,9 +23,9 @@ The Grid connects sound and visualization. The main instrument here is the grids
 
 You can choose from different Grid shapes that are directly connected to the Gridsynth.
 
- You determine the number of available tones of the Gridsynth.
+You determine the number of available tones of the Gridsynth.
 
- The Grid can vary by pattern. Tip: Smaller Grids require less power.
+The Grid can vary by pattern. Tip: Smaller Grids require less power.
 
 > *Also in: [Pattern](../06-pattern/)*
 
@@ -33,7 +33,7 @@ You can choose from different Grid shapes that are directly connected to the Gri
 
 The Kaleidoscope movements are connected to various sound controllers of the Gridsynth Interface.
 
- The Room Controller (Reverb) has a special influence.
+The Room Controller (Reverb) has a special influence.
 
 ## Kaleido Visual Custom
 
@@ -63,17 +63,17 @@ The Grid will be hidden.
 
 The visuals are created by combining the Grid with zoom effects, loop and square textures, and virtual 3D figures.
 
- 1 monitor can be used on mobile, and up to 3 external monitors can be used on desktop with separate visuals.
+1 monitor can be used on mobile, and up to 3 external monitors can be used on desktop with separate visuals.
 
- To do this, set the screen settings of the operating system to Advanced Screens before starting the app.
+To do this, set the screen settings of the operating system to Advanced Screens before starting the app.
 
 ## Visuals On/ Off
 
 The visuals are created by combining the Grid with zoom effects, loop and square textures, and virtual 3D figures.
 
- 1 monitor can be used on mobile, and up to 3 external monitors can be used on desktop with separate visuals.
+1 monitor can be used on mobile, and up to 3 external monitors can be used on desktop with separate visuals.
 
- To do this, set the screen settings of the operating system to Advanced Screens before starting the app.
+To do this, set the screen settings of the operating system to Advanced Screens before starting the app.
 
 ## Grid Loop
 
@@ -83,9 +83,9 @@ Radius (X): luminous layer, Repeat Grid background.
 
 Radius (X): Zoom Grid in
 
- Angle (Y): Grid zoom out
+Angle (Y): Grid zoom out
 
- Grid background camera zoom.
+Grid background camera zoom.
 
 ## Reloop Zoom
 
@@ -95,17 +95,17 @@ Radius (X): visual background zoom out, Square texture camera zoom.
 
 Radius (X): stretch
 
- Angle (Y): Number of reflections
+Angle (Y): Number of reflections
 
- Fan-like reflection of the Grid.
+Fan-like reflection of the Grid.
 
 ## Star Rotation
 
 Radius (X): speed of rotation
 
- Angle (Y): direction and speed level
+Angle (Y): direction and speed level
 
- Rotation of fan-like reflection.
+Rotation of fan-like reflection.
 
 ## Star Position
 
@@ -127,7 +127,7 @@ Change the convolution of the surface.
 
 Radius (X): Change the zoom level of the 3D figure
 
- Angle (Y): Change the speed of the movements.
+Angle (Y): Change the speed of the movements.
 
 ## Main Screen
 
@@ -137,13 +137,13 @@ The Main screen offers 5 visualizations that are switched by tapping the Main bu
 
 The Loop texture takes the Grid and repeats it at its ends in different ways to form a continuing Pattern.
 
- Switch the visual mode of the background by tapping the Loop button.
+Switch the visual mode of the background by tapping the Loop button.
 
 ## Square Texture
 
 This texture forms a Grid of squares in which the Grid and loop texture are mapped.
 
- Switch between the visual modes of the Square Textures by tapping the button.
+Switch between the visual modes of the Square Textures by tapping the button.
 
 ## Display 2
 
@@ -177,9 +177,9 @@ Change the source render texture used by the segments of the concentric structur
 
 Change the source render texture used by the background of the concentric structure.
 
- The background is visible only if the transformation parameters are adjusted for this visualization mode.
+The background is visible only if the transformation parameters are adjusted for this visualization mode.
 
- For example, to make the background visible, increase the Divide parameter or change the position of the circle and the Star Count parameter for the number of stars / scale.
+For example, to make the background visible, increase the Divide parameter or change the position of the circle and the Star Count parameter for the number of stars / scale.
 
 ## 3D Character
 
@@ -265,17 +265,17 @@ The brightness value sets the background color from dark to bright.
 
 The Visual Presets contain various settings of the Visual Interface and can be changed freely.
 
- When loaded, the preset overwrites the current settings.
+When loaded, the preset overwrites the current settings.
 
 ## Save Visuals Preset
 
 Save your own preset and name it.
 
- The preset will be saved in the local Soniface folder and can be shared this way (FAQ).
+The preset will be saved in the local Soniface folder and can be shared this way (FAQ).
 
 ## Add Visuals Preset
 
 Load a preset from the Visual Menu.
 
- When loaded, the preset overwrites the current settings.
+When loaded, the preset overwrites the current settings.
 
