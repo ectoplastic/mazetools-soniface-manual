@@ -59,9 +59,9 @@ Tap on a connection in the list to enter the Interface of the respective connect
 
 ### Modules of the selected Maze
 
-This interface displays all active modules of the currently selected Maze. It is accessible from almost any interface via "Hub." 
+This interface displays all active modules of the currently selected Maze. It is accessible from almost any interface via "Hub."
 
-Additionally, in "Pattern Modules," there is an interactive overview of all active modules in the current Pattern. 
+Additionally, in "Pattern Modules," there is an interactive overview of all active modules in the current Pattern.
 
 An overview of all connections of modules to internal and external controllers can be found in "Maze Connections" and "Pattern Connections".
 
@@ -71,9 +71,9 @@ An overview of all connections of modules to internal and external controllers c
 
 ### Modules of the selected Pattern
 
-This interface lists all active modules of the current Pattern. It is accessible from almost any interface via "Hub." 
+This interface lists all active modules of the current Pattern. It is accessible from almost any interface via "Hub."
 
-Additionally, in "Maze Modules," there is an interactive overview of all active modules of the currently selected Maze. 
+Additionally, in "Maze Modules," there is an interactive overview of all active modules of the currently selected Maze.
 
 An overview of all connections of modules to internal and external controllers can be found in "Maze Connections" and "Pattern Connections".
 

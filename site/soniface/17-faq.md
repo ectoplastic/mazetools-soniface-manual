@@ -147,7 +147,7 @@ It requires a bit more processing power, which may affect the fluidity of the ap
 
 #### Gridsynth-Mode
 
-The Gridsynth offers an old and a new synth base, which can be switched on/off in the setup menu by tapping Mazesynth. 
+The Gridsynth offers an old and a new synth base, which can be switched on/off in the setup menu by tapping Mazesynth.
 
 Since Mazetools Soniface 3.0, the new Mazesynth is enabled by default. This can lead to more power consumption and sounds a bit different than the old Gridsynth, which is played when the Mazesynth is not activated.
 

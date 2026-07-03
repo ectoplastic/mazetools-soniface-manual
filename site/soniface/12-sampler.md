@@ -421,7 +421,7 @@ In the setup of 4 or more speakers, the Spatialize Controller determines how wid
 
 Radius (X): Multiplier of the envelope length
 
-Angle(Y): Modification of the envelope 
+Angle(Y): Modification of the envelope
 
 The angle refers to the ratios of attack, hold and decay.
 
@@ -551,19 +551,19 @@ The microphone input is routed into the Granular Sampler.
 
 ## Granular Chord Sync 1 for 1 Beat loop
 
-If you have activated the chord in Granular mode, you can use this switch to set the note sequence to restart with the beginning of each beat loop. 
+If you have activated the chord in Granular mode, you can use this switch to set the note sequence to restart with the beginning of each beat loop.
 
 This means that as soon as the beat loop starts again, the note sequence of the selected chord also restarts in the respective mode.
 
 ## Granular Chord Sync 2 for 2 Beat loops
 
-If you have activated the chord in Granular mode, you can use this switch to set the note sequence to restart at the beginning of every second beat loop. 
+If you have activated the chord in Granular mode, you can use this switch to set the note sequence to restart at the beginning of every second beat loop.
 
 This means that as soon as the beat loop restarts after two repetitions, the note sequence of the selected chord also restarts in the respective mode.
 
 ## Granular Chord Sync 3 for 4 Beat loops
 
-If you have activated the chord in Granular mode, you can use this switch to set the note sequence to restart at the beginning of every fourth beat loop. 
+If you have activated the chord in Granular mode, you can use this switch to set the note sequence to restart at the beginning of every fourth beat loop.
 
 This means that as soon as the beat loop restarts after four repetitions, the note sequence of the selected chord also restarts in the respective mode.
 
